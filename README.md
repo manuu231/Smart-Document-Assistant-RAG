@@ -47,7 +47,7 @@ You can point it at **any text document** and ask questions in plain English —
 | 🐍 Python | 3.10+ | Programming language |
 | 🔗 LangChain | 0.2+ | AI pipeline framework |
 | 🤖 Google Gemini | gemini-2.5-flash | Generating final answers |
-| 🔢 Gemini Embeddings | embedding-001 | Converting text → vectors |
+| 🔢 Gemini Embeddings | gemini-embedding-001 | Converting text → vectors |
 | 🗄️ FAISS | CPU | Vector database — store and search embeddings |
 | ✂️ RecursiveCharacterTextSplitter | — | Splitting documents into chunks |
 | 📦 RetrievalQA | — | Connecting retriever + LLM |
@@ -98,7 +98,7 @@ cd smart-document-assistant-rag
 ```
 
 ### Step 2 — Open in Google Colab
-Upload `day6_rag_pipeline.ipynb` to [Google Colab](https://colab.research.google.com)
+Upload `RAG_pipeline.ipynb` to [Google Colab](https://colab.research.google.com)
 
 ### Step 3 — Install Dependencies
 Run Cell 1 in the notebook:
@@ -202,7 +202,7 @@ With overlap:     "Manpreet works at Wipro as ML" | "as ML Engineer with 3 years
 ```
 smart-document-assistant-rag/
 │
-├── day6_rag_pipeline.ipynb    ← Main RAG pipeline notebook
+├── RAG_pipeline.ipynb    ← Main RAG pipeline notebook
 └── README.md                  ← This file
 ```
 
