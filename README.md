@@ -202,7 +202,7 @@ With overlap:     "Manpreet works at Wipro as ML" | "as ML Engineer with 3 years
 ```
 smart-document-assistant-rag/
 │
-├── RAG_pipeline.ipynb    ← Main RAG pipeline notebook
+├── day6_rag_pipeline.ipynb    ← Main RAG pipeline notebook
 └── README.md                  ← This file
 ```
 
@@ -212,13 +212,13 @@ smart-document-assistant-rag/
 
 | Day | Project | Status |
 |-----|---------|--------|
-| Day 4 | LangChain Basics — Prompt Templates + LCEL | ✅ Done |
-| Day 5 | Interview Bot — LangChain + Memory | ✅ Done |
-| Day 6 | Smart Document Assistant — RAG Pipeline | ✅ Done |
-| Day 7 | RAG with Real PDF Documents | 🔒 Coming |
-| Day 8 | RAG with Multiple Documents | 🔒 Coming |
-| Day 9 | Conversational RAG with Memory | 🔒 Coming |
-| Day 10 | RAG Evaluation and Optimization | 🔒 Coming |
+| Day  1| LangChain Basics — Prompt Templates + LCEL | ✅ Done |
+| Day 2 | Interview Bot — LangChain + Memory | ✅ Done |
+| Day 3 | Smart Document Assistant — RAG Pipeline | ✅ Done |
+| Day 4 | RAG with Real PDF Documents | 🔒 Coming |
+| Day 5 | RAG with Multiple Documents | 🔒 Coming |
+| Day 6 | Conversational RAG with Memory | 🔒 Coming |
+| Day 7 | RAG Evaluation and Optimization | 🔒 Coming |
 
 ---
 
@@ -232,6 +232,6 @@ MIT License — feel free to use, modify and share!
 
 ⭐ **Star this repo if you found it helpful!**
 
-Made with ❤️ by [Manpreet Kaur](https://github.com/manuu231) 
+Made with ❤️ by [Manpreet Kaur](https://github.com/manuu231)  
 
 </div>
